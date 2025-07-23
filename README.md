@@ -1,2 +1,2 @@
 Reports of the 4 projects implemented in MATLAB of undergraduate course computer intelligence of ECE AUTH, as taught in the spring semester of 2025
-Central themes are fuzzy systems, fuzzy logic controllers and training neuro fuzzy inference systems 
+.Central themes are fuzzy systems, fuzzy logic controllers and training neuro fuzzy inference systems 
